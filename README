@@ -1,0 +1,4 @@
+java-sudoku
+===========
+A solver for sudoku puzzles.
+Can be improved by adding more methods in Board that can find additional moves.
